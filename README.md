@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidhunter007&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sajidhunter007" target="blank"><img src="https://img.shields.io/twitter/follow/aurko06?logo=twitter&style=for-the-badge" alt="aurko06" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sajidhunter007" target="blank"><img src="https://img.shields.io/twitter/follow/sajidhunter007?logo=twitter&style=for-the-badge" alt="aurko06" /></a> </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 - 🌱 I’m currently learning **Web-development**
